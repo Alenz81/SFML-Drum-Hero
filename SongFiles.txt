@@ -1,0 +1,11 @@
+album.png
+crowd.ogg
+drums_1.ogg
+drums_2.ogg
+drums_3.ogg
+guitar.ogg
+notes.mid
+rhythm.ogg
+song.ini
+song.ogg
+vocals.ogg
